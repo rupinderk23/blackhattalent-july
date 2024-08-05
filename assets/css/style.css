@@ -26,6 +26,11 @@
   line-height: 40px;
 }
 
+.colored-text {
+  font-weight: bold;
+  color: #f39454;
+}
+
 .desc-row {
   position: relative;
 }
@@ -573,5 +578,5 @@ footer .ftrmnu li span {
 
 .disclaimer {
   color: #333333;
-  font-size: 13px;
+  font-size: 12px;
 }/*# sourceMappingURL=style.css.map */
