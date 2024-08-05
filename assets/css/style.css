@@ -2,21 +2,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Young+Serif&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&family=Poppins&family=Young+Serif&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Julee&family=Kaushan+Script&display=swap");
-.pt-70 {
-  padding-top: 70px;
+.pt-30 {
+  padding-top: 30px;
 }
 @media (max-width: 767px) {
-  .pt-70 {
-    padding-top: 30px;
+  .pt-30 {
+    padding-top: 20px;
   }
 }
 
-.pb-70 {
-  padding-bottom: 70px;
+.pb-30 {
+  padding-bottom: 30px;
 }
 @media (max-width: 767px) {
-  .pb-70 {
-    padding-bottom: 30px;
+  .pb-30 {
+    padding-bottom: 20px;
   }
 }
 
@@ -384,7 +384,6 @@ header h3 {
     padding-left: 0;
     padding-right: 0;
     padding-top: 30px;
-    padding-bottom: 30px;
   }
 }
 .main-event-section h2 {
