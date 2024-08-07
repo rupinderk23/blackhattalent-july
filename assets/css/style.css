@@ -578,5 +578,10 @@ footer .ftrmnu li span {
 
 .disclaimer {
   color: #333333;
-  font-size: 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.modal-content {
+  border-radius: 20px;
 }/*# sourceMappingURL=style.css.map */
